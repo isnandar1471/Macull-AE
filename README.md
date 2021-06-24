@@ -8,7 +8,7 @@ Pengembangan Aplikasi Mobile
 8
 
 ## Anggota
-Adinda Safitri Nugraheny
-Isnandar Fajar Pangestu
-Tan Wilson Febrian
-Alfin Rahman Hamada
+- Adinda Safitri Nugraheny
+- Isnandar Fajar Pangestu
+- Tan Wilson Febrian
+- Alfin Rahman Hamada
