@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.maculae">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MaculAE">
+        <activity
+            android:name=".activity.EditKulinerAdmin"
+            android:label="@string/title_activity_edit_kuliner_admin"
+            android:theme="@style/Theme.MaculAE.NoActionBar"></activity>
+        <activity
+            android:name=".activity.DetailKulinerAdmin"
+            android:label="@string/title_activity_detil_admin"
+            android:theme="@style/Theme.MaculAE.NoActionBar" />
+        <activity android:name=".activity.TambahKuliner" />
+        <activity android:name=".activity.EditKuliner" />
+        <activity android:name=".activity.DaftarKulinerAdmin" />
+        <activity android:name=".activity.DetailKulinerUser" />
+        <activity android:name=".activity.RegisterActivity" />
+        <activity android:name=".activity.TestLagiLagiLagi" />
+        <activity android:name=".activity.LoginActivity" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".activity.SplahActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activity.DaftarKulinerUser" />
+    </application>
+
+</manifest>

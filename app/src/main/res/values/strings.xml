@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Macul AE</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">John Doe</string>
+    <string name="nav_header_subtitle">johnDoe@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="homeFragment">Home</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="aboutFragment">About</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="favoritesFragment">Favorites</string>
+
+    <string name="lorem">
+       Pernahkah kalian mendengar nama Madiun sebelumnya? Pastinya pernah, karena ada dalam pelajaran sejarah dimana terjadi pemberontakkan Partai Komunis Indonesia(PKI) tahun 1948 di Madiun.
+
+Madiun merupakan salah satu daerah yang berada di provinsi Jawa Timur. Letaknya pun sangat strategis dan membuat kota ini menjadi tempat persinggahan bagi para pelancong.
+
+Setiap daerah memiliki ciri khas sendiri sebagai pembeda dengan tempat yang lain. Begitu juga dengan Madiun, juga memiliki ciri khas berupa kuliner yang berbeda dengan daerah lain.
+
+Jika kamu suatu saat  hendak mengunjungi atau sekedar lewat Madiun, tak ada salahnya menyempatkan diri mencicipi kuliner khas daerah ini.
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_detil_admin">DetilAdmin</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_edit_kuliner_admin">EditKulinerAdmin</string>
+
+</resources>
