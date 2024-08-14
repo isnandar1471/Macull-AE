@@ -1,5 +1,8 @@
-# Macull AE
-> Macull AE adalah sebuah aplikasi mobile Android yang berfungsi sebagai tempat untuk mengumpulkan data-data terkait kuliner Kota Madiun
+# Madiun Cullinary (Macull AE)
+
+![](./docs/img/mockup.png)
+
+> Madiun Cullinary (Macull AE) adalah sebuah aplikasi mobile Android yang berfungsi sebagai tempat untuk mengumpulkan data-data terkait kuliner Kota Madiun
 
 ## Mata Kuliah
 Pengembangan Aplikasi Mobile
